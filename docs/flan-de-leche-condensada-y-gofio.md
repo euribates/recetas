@@ -1,3 +1,8 @@
+---
+title: Flan de leche condensada y gofio
+tags:
+  - postre
+---
 ## Flan de leche condensada y gofio
 
 ### Ingredientes
@@ -21,7 +26,7 @@ el caramelo este hecho lo vertemos en las paredes y el fondo de un molde.
 2.- Preparamos el flan: En un bol ponemos los huevos con la leche condensada y
 el gofio. Lo batimos todo con el brazo hasta que los ingredientes se queden
 bien integrados. Vertemos la mezcla en el molde sobre el caramelo. Cocemos el
-flan al baño maría 25 o 30 minutos con el horno precalentado a 180ª. Retiramos
+flan al baño maría 25 o 30 minutos con el horno precalentado a 180º. Retiramos
 el flan del horno, dejamos que se temple. Pasamos un cuchillo por el borde para
 despegarlo del molde, volcamos el flan de leche condensada y gofio sobre un
 plato. Lo guardamos en la nevera hasta el momento de servir.

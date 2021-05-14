@@ -1,3 +1,7 @@
 site_name: Recetas
 nav:
     - 'index.md'
+    - tags.md
+
+plugins:
+  - tags:

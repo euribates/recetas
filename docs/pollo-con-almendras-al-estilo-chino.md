@@ -1,3 +1,11 @@
+---
+title: Pollo con almendras al estilo chino
+tags:
+  - carnes
+  - pollo
+  - almendras
+  - oriental
+---
 ## Pollo con almendras al estilo chino
 
 ### Ingredientes

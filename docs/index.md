@@ -16,3 +16,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         index.md  # The documentation homepage.
         pollo-con-almendras-al-estilo-chino.md
         
+## Recetas
+
+- [Flan de lecha condensada y gofio](flan-de-leche-condensada-y-gofio.md)
+- [Panellets](panellets.md)
+- [Pollo con almendras al estilo chino](pollo-con-almendras-al-estilo-chino.md)
+- [Tomates asados a la italiana](tomates-asados-a-la-italiana.md)
