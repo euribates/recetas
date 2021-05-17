@@ -3,7 +3,7 @@ title: Bizcocho de zanahoria
 tags:
   - postre
 ---
-## Bizcocho de zanahoria
+## Bizcocho de zanahoria (Juan)
 
 La miga de este bizcocho es densa, pero jugosa y húmeda. En ello interviene la
 zanahoria, que juega un papel maravilloso. No confundáis este bizcocho de
