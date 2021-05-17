@@ -15,3 +15,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 - [Panellets](panellets.md)
 - [Pollo con almendras al estilo chino](pollo-con-almendras-al-estilo-chino.md)
 - [Tomates asados a la italiana](tomates-asados-a-la-italiana.md)
+- [Bizcocho de zanahoria](bizcocho-de-zanahoria.md)
