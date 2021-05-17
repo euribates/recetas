@@ -5,6 +5,3 @@ nav:
 
 theme:
   name: material
-
-plugins:
-  - tags:
