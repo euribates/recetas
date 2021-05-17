@@ -9,7 +9,7 @@ tags:
   - tradicional
 ---
 
-## Panellets
+## Panellets (Dulce tradicional Cataluña y Valencia)
 
 Uno de los dulces más tradicionales en Cataluña y el País Valenciano entre
 otros sitios, quizás el más tradicional en el día de Todos los Santos, son los
