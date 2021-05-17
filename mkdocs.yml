@@ -1,4 +1,4 @@
-site_name: Recetas
+site_name: Mis Recetas
 nav:
     - 'index.md'
     - tags.md
