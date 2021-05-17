@@ -2,6 +2,7 @@
 title: Flan de leche condensada y gofio
 tags:
   - postre
+  - canarias
 ---
 ## Flan de leche condensada y gofio
 

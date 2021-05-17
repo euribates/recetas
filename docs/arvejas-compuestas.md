@@ -1,5 +1,5 @@
 ---
-title: Arvejas CompuestasArvejas Compuestas
+title: Arvejas Compuestas
 tags:
   - principal
   - canarias

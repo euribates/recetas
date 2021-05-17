@@ -1,7 +1,7 @@
 ---
 title: Truchas de batata
 tags:
-  - postres
+  - postre
   - canarias
   - fiestas
   - tradicional

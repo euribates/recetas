@@ -1,9 +1,9 @@
 ---
 title: Pollo con almendras al estilo chino
 tags:
-  - carnes
+  - carne
+  - principal
   - pollo
-  - almendras
   - oriental
 ---
 ## Pollo con almendras al estilo chino
