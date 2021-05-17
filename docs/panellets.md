@@ -1,10 +1,9 @@
 ---
 title: Panellets
 tags:
- - postre
- - fiestas
- - tradicional
- - almendra
+  - postre
+  - fiestas
+  - tradicional
 ---
 
 ## Panellets

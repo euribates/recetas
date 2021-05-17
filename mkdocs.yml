@@ -3,5 +3,8 @@ nav:
     - 'index.md'
     - tags.md
 
+theme:
+  name: material
+
 plugins:
   - tags:

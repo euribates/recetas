@@ -34,7 +34,7 @@ Dificultad: Fácil
 - Elaboración 10 m
 - Cocción 40 m
 
-![Bizcocho de zanahoria](bizcocho-de-zanahoria.png)
+![Bizcocho de zanahoria](img/bizcocho-de-zanahoria.png)
 
 Rallamos las zanahorias, picamos las nueces y las mezclamos. Si tenemos un
 robot de cocina, podemos poner ambos ingredientes en el vaso y triturar. Será
