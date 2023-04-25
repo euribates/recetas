@@ -9,3 +9,4 @@
 - [Pollo con almendras al estilo chino](pollo-con-almendras-al-estilo-chino.md)
 - [Tomates asados a la italiana](tomates-asados-a-la-italiana.md)
 - [Truchas de batata](truchas-de-batata.md)
+- [Rosquetes de anis](rosquetes-de-anis.md)
